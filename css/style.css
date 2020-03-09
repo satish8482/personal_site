@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  line-height: 2;
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+hr {
+  border-top: 8px dotted grey;
+  width: 5%;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+.top-container {
+  background-color: #e0ebe8;
+  padding: 40px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  position: relative;
+  left: 30px;
+  line-height: 2;
+}
+.middle-container {
+}
+.bottom-container {
+   height: 200px;
+   background-color:#66BFBF;
+   margin-top: 60px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+ 
+}
+.top-cloud {
+  position: relative;
+  left: 200px;
+  left: 400px;
+}
+span {
+  text-decoration: underline;
+  font-weight: normal;
+}
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.trek-img {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.footer-link {
+  color:#11999e;
+  padding: 20px;
+  position: relative;
+  top: 20px;
+  line-height: 4;
+}
+.btn {
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: serif;
+  font-size: 31px;
+  font-weight: 100;
+  padding: 21px;
+  background-color: #11999e;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
